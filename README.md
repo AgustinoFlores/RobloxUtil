@@ -36,7 +36,7 @@ To use the two tables in your scripts just call your variable name followed by a
 
 ```lua
   local str = "Hello World!"
-  print(strings.startsWith(str, "Hello")
+  print(strings.startsWith(str, "Hello"))
 ```
 Output:
 ```
