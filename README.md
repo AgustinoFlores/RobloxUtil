@@ -43,4 +43,4 @@ Output:
   true
 ```
 
-For more information on all the methods and usages in this module script refer to the official documentation. I hope you enjoy using this!
+For more information on all the methods and usages in this module script refer to the official documentation located [here](https://github.com/AgustinoFlores/RobloxUtil/wiki). I hope you enjoy using this!
