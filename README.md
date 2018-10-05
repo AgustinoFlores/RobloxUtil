@@ -1,5 +1,6 @@
 # RobloxUtil
 A module script that contains many utilities for Roblox, including new methods for strings and tables.
+You can find the module script here: [Roblox Util](https://www.roblox.com/library/2440711100/RobloxUtil)
 
 # Usage
 To use the module, import the module in your script as follows. Please note that the Roblox editor will say the functions are not defined in your script, this is perfectly fine the functions work during runtime, they all run. 
